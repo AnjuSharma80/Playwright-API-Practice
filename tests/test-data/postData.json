@@ -1,0 +1,11 @@
+{
+    "createPost":{
+        "title":"dynamic API post",
+        "body":"Learning test data management",
+        "userId":1
+    },
+    "updatePost":{
+        "title":"updated title from JSON",
+        "body":"updated body from JSON"
+    }
+}
