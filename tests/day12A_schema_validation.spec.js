@@ -3,6 +3,7 @@ import Ajv from 'ajv';
 import userSchema from './schema/userSchema.json';
 
 
+
 const ajv = new Ajv();
 
 test('Day12 - Schema validation for users API', async ({ request }) => {
