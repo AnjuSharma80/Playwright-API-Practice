@@ -1,6 +1,6 @@
 import{test,expect} from '@playwright/test';
 import Ajv from 'ajv';
-import userSchema from '../tests/schema/userSchema.json';
+import userSchema from './schema/userSchema.json';
 
 
 
